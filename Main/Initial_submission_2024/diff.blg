@@ -1,0 +1,117 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: diff.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+The style file: copernicus.bst
+I found no \bibdata command---while reading file diff.aux
+Warning--I didn't find a database entry for "McMillan2017"
+Warning--I didn't find a database entry for "Tauro2018"
+Warning--I didn't find a database entry for "Fekete2007"
+Warning--I didn't find a database entry for "Kiang2018"
+Warning--I didn't find a database entry for "Herschy2014"
+Warning--I didn't find a database entry for "Kidson2005"
+Warning--I didn't find a database entry for "Baldassarre2009"
+Warning--I didn't find a database entry for "Jolley2021"
+Warning--I didn't find a database entry for "Brevis2011"
+Warning--I didn't find a database entry for "Tauro2017b"
+Warning--I didn't find a database entry for "Fujita1998"
+Warning--I didn't find a database entry for "Muste2008"
+Warning--I didn't find a database entry for "Fujita2007"
+Warning--I didn't find a database entry for "Bradley2002"
+Warning--I didn't find a database entry for "Hauet2008"
+Warning--I didn't find a database entry for "Stumpf2016"
+Warning--I didn't find a database entry for "Jodeau2008"
+Warning--I didn't find a database entry for "Kim2008"
+Warning--I didn't find a database entry for "Dramais2011"
+Warning--I didn't find a database entry for "Lewis2018"
+Warning--I didn't find a database entry for "Masafu2022"
+Warning--I didn't find a database entry for "Haro2021"
+Warning--I didn't find a database entry for "Tauro2018b"
+Warning--I didn't find a database entry for "Lin2019"
+Warning--I didn't find a database entry for "Khalid2019"
+Warning--I didn't find a database entry for "Perks2016"
+Warning--I didn't find a database entry for "eltner2020"
+Warning--I didn't find a database entry for "Lucas1981"
+Warning--I didn't find a database entry for "Tomasi1991"
+Warning--I didn't find a database entry for "Shi1994"
+Warning--I didn't find a database entry for "Pearce2020"
+Warning--I didn't find a database entry for "Fleit2019"
+Warning--I didn't find a database entry for "Thielicke2021"
+Warning--I didn't find a database entry for "Wang2024"
+Warning--I didn't find a database entry for "Ran2016"
+Warning--I didn't find a database entry for "Tosi2020"
+Warning--I didn't find a database entry for "Hutley2023"
+Warning--I didn't find a database entry for "Perks2020a"
+Warning--I didn't find a database entry for "ceh2024"
+Warning--I didn't find a database entry for "EDINA2022"
+Warning--I didn't find a database entry for "vid_analysis"
+Warning--I didn't find a database entry for "Messerli2015"
+Warning--I didn't find a database entry for "Fletcher1971"
+Warning--I didn't find a database entry for "Bouguet2000"
+Warning--I didn't find a database entry for "Kalal2010"
+Warning--I didn't find a database entry for "Leitao2018"
+Warning--I didn't find a database entry for "LeCoz2010"
+Warning--I didn't find a database entry for "Fulford1986"
+Warning--I didn't find a database entry for "Levesque2012"
+Warning--I didn't find a database entry for "Chiu1989"
+Warning--I didn't find a database entry for "Moramarco2010"
+Warning--I didn't find a database entry for "vyas2024"
+Warning--I didn't find a database entry for "Bahmanpouri2022"
+Warning--I didn't find a database entry for "alpha_analysis"
+Warning--I didn't find a database entry for "ISO24578"
+Warning--I didn't find a database entry for "Kim2015"
+Warning--I didn't find a database entry for "mueller2009measuring"
+Warning--I didn't find a database entry for "turnipseed2010discharge"
+Warning--I didn't find a database entry for "hauet2018velocity"
+Warning--I didn't find a database entry for "pumo2021optical"
+Warning--I didn't find a database entry for "dal2018exploring"
+Warning--I didn't find a database entry for "pizarro2020refining"
+Warning--I didn't find a database entry for "pizarro2020"
+Warning--I didn't find a database entry for "elias2020"
+Warning--I didn't find a database entry for "perks2024"
+Warning--I didn't find a database entry for "eltner2021"
+Warning--I didn't find a database entry for "Cao2022"
+Warning--I didn't find a database entry for "Ansari2023"
+Warning--I didn't find a database entry for "Perks2024B"
+You've used 0 entries,
+            2932 wiz_defined-function locations,
+            1126 strings with 9960 characters,
+and the built_in function-call counts, 37 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 1
+* -- 2
+:= -- 10
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 1
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 9
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 8
+(There was 1 error message)

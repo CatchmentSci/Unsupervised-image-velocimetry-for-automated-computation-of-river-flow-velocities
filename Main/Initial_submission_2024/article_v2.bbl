@@ -1,0 +1,411 @@
+\begin{thebibliography}{69}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{https://doi.org/\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{https://doi.org/\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Ansari et~al.(2023)Ansari, Rennie, Jamieson, Seidou, and
+  Clark}]{Ansari2023}
+Ansari, S., Rennie, C., Jamieson, E., Seidou, O., and Clark, S.: RivQNet: Deep
+  Learning Based River Discharge Estimation Using Close-Range Water Surface
+  Imagery, Water Resources Research, 59, e2021WR031\,841, 2023.
+
+\bibitem[{Bahmanpouri et~al.(2022)Bahmanpouri, Eltner, Barbetta, Bertalan, and
+  Moramarco}]{Bahmanpouri2022}
+Bahmanpouri, F., Eltner, A., Barbetta, S., Bertalan, L., and Moramarco, T.:
+  Estimating the Average River Cross-Section Velocity by Observing Only One
+  Surface Velocity Value and Calibrating the Entropic Parameter, Water
+  Resources Research, 58, e2021WR031\,821,
+  \doi{https://doi.org/10.1029/2021WR031821}, e2021WR031821 2021WR031821, 2022.
+
+\bibitem[{Bouguet(2000)}]{Bouguet2000}
+Bouguet, J.~Y.: Pyramidal implementation of the Lucas Kanade feature tracker,
+  Intel Corporation, Microprocessor Research Labs, 2000.
+
+\bibitem[{Bradley et~al.(2002)Bradley, Kruger, Meselhe, and
+  Muste}]{Bradley2002}
+Bradley, A.~A., Kruger, A., Meselhe, E.~A., and Muste, M. V.~I.: Flow
+  measurement in streams using video imagery, Water Resources Research, 38,
+  51--1--51--8, \doi{10.1029/2002WR001317}, 2002.
+
+\bibitem[{Brevis et~al.(2011)Brevis, Ni{\~n}o, and Jirka}]{Brevis2011}
+Brevis, W., Ni{\~n}o, Y., and Jirka, G.: Integrating cross-correlation and
+  relaxation algorithms for particle tracking velocimetry, Experiments in
+  Fluids, 50, 135--147, 2011.
+
+\bibitem[{Cao et~al.(2022)Cao, Wu, Yao, Yu, Hou, Wu, and Wang}]{Cao2022}
+Cao, Y., Wu, Y., Yao, Q., Yu, J., Hou, D., Wu, Z., and Wang, Z.: River Surface
+  Velocity Estimation Using Optical Flow Velocimetry Improved With Attention
+  Mechanism and Position Encoding, IEEE Sensors Journal, 22, 16\,533--16\,544,
+  \doi{10.1109/JSEN.2022.3186972}, 2022.
+
+\bibitem[{Chiu(1989)}]{Chiu1989}
+Chiu, C.~L.: Velocity Distribution in Open Channel Flow, Journal of Hydraulic
+  Engineering, 115, 576--594, \doi{10.1061/(ASCE)0733-9429(1989)115:5(576)},
+  1989.
+
+\bibitem[{Dal~Sasso et~al.(2018)Dal~Sasso, Pizarro, Samela, Mita, and
+  Manfreda}]{dal2018exploring}
+Dal~Sasso, S., Pizarro, A., Samela, C., Mita, L., and Manfreda, S.: Exploring
+  the optimal experimental setup for surface flow velocity measurements using
+  PTV, Environmental Monitoring and Assessment, 190, 1--14, 2018.
+
+\bibitem[{Di~Baldassarre and Montanari(2009)}]{Baldassarre2009}
+Di~Baldassarre, G. and Montanari, A.: Uncertainty in river discharge
+  observations: a quantitative analysis, Hydrology and Earth System Sciences,
+  13, 913--921, \doi{10.5194/hess-13-913-2009}, 2009.
+
+\bibitem[{Dramais et~al.(2011)Dramais, {Le Coz}, Camenen, and
+  Hauet}]{Dramais2011}
+Dramais, G., {Le Coz}, J., Camenen, B., and Hauet, A.: Advantages of a mobile
+  LSPIV method for measuring flood discharges and improving stage–discharge
+  curves, Journal of Hydro-environment Research, 5, 301 -- 312,
+  \doi{https://doi.org/10.1016/j.jher.2010.12.005}, 2011.
+
+\bibitem[{Elias et~al.(2020)Elias, Eltner, Liebold, and Maas}]{elias2020}
+Elias, M., Eltner, A., Liebold, F., and Maas, H.-G.: Assessing the Influence of
+  Temperature Changes on the Geometric Stability of Smartphone- and Raspberry
+  Pi Cameras, Sensors, 20, \doi{10.3390/s20030643}, 2020.
+
+\bibitem[{Eltner et~al.(2020)Eltner, Sardemann, and Grundmann}]{eltner2020}
+Eltner, A., Sardemann, H., and Grundmann, J.: Flow velocity and discharge
+  measurement in rivers using terrestrial and unmanned-aerial-vehicle imagery,
+  Hydrology and Earth System Sciences, 24, 1429--1445, 2020.
+
+\bibitem[{Eltner et~al.(2021)Eltner, Bressan, Akiyama, Gon{\c{c}}alves, and
+  Marcato~Junior}]{eltner2021}
+Eltner, A., Bressan, P.~O., Akiyama, T., Gon{\c{c}}alves, W.~N., and
+  Marcato~Junior, J.: Using deep learning for automatic water stage
+  measurements, Water Resources Research, 57, e2020WR027\,608, 2021.
+
+\bibitem[{Fekete and V{\"o}r{\"o}smarty(2007)}]{Fekete2007}
+Fekete, B.~M. and V{\"o}r{\"o}smarty, C.~J.: The current status of global river
+  discharge monitoring and potential new technologies complementing traditional
+  discharge measurements, IAHS publications, 309, 129--136, 2007.
+
+\bibitem[{Fleit and Baranya(2019)}]{Fleit2019}
+Fleit, G. and Baranya, S.: An improved particle image velocimetry method for
+  efficient flow analyses, Flow Measurement and Instrumentation, 69, 101\,619,
+  \doi{https://doi.org/10.1016/j.flowmeasinst.2019.101619}, 2019.
+
+\bibitem[{Fletcher(1971)}]{Fletcher1971}
+Fletcher, R.: A modified Marquardt subroutine for nonlinear least squares
+  fitting, Atomic Energy Research Establishment, 1971.
+
+\bibitem[{Fujita et~al.(1998)Fujita, Muste, and Kruger}]{Fujita1998}
+Fujita, I., Muste, M., and Kruger, A.: Large-scale particle image velocimetry
+  for flow analysis in hydraulic engineering applications, Journal of hydraulic
+  Research, 36, 397--414, 1998.
+
+\bibitem[{Fujita et~al.(2007)Fujita, Watanabe, and Tsubaki}]{Fujita2007}
+Fujita, I., Watanabe, H., and Tsubaki, R.: Development of a non-intrusive and
+  efficient flow monitoring technique: The space-time image velocimetry (STIV),
+  International Journal of River Basin Management, 5, 105--114, 2007.
+
+\bibitem[{Fulford and Sauer(1986)}]{Fulford1986}
+Fulford, J.~M. and Sauer, V.~B.: Comparison of velocity interpolation methods
+  for computing open-channel discharge, in: Selected papers in the hydrologic
+  sciences (Water Supply Paper 2290, edited by Subitsky, S.~Y., pp. 139--144,
+  U.S. Geological Survey, Reston, VA, 1986.
+
+\bibitem[{{Getmapping: EDINA Aerial Digimap Service}(2022)}]{EDINA2022}
+{Getmapping: EDINA Aerial Digimap Service}: High Resolution (12.5cm) Vertical
+  Aerial Imagery [JPG geospatial data], Scale 1:250, Tiles:
+  sx7465,sx7466,sx7565,sx7566, \urlprefix\url{https://digimap.edina.ac.uk},
+  2022.
+
+\bibitem[{Hauet et~al.(2008)Hauet, Kruger, Krajewski, Bradley, Muste, Creutin,
+  and Wilson}]{Hauet2008}
+Hauet, A., Kruger, A., Krajewski, W.~F., Bradley, A., Muste, M., Creutin,
+  J.-D., and Wilson, M.: Experimental System for Real-Time Discharge Estimation
+  Using an Image-Based Method, Journal of Hydrologic Engineering, 13, 105--110,
+  2008.
+
+\bibitem[{Hauet et~al.(2018)Hauet, Morlot, and Daubagnan}]{hauet2018velocity}
+Hauet, A., Morlot, T., and Daubagnan, L.: Velocity profile and depth-averaged
+  to surface velocity in natural streams: A review over alarge sample of
+  rivers, in: E3s web of conferences, vol.~40, p. 06015, EDP Sciences, 2018.
+
+\bibitem[{Herschy(2014)}]{Herschy2014}
+Herschy, R.~W.: Streamflow measurement, CRC Press, London, ISBN 9781482265880,
+  \doi{https://doi.org/10.1201/9781482265880}, 2014.
+
+\bibitem[{Hutley et~al.(2023)Hutley, Beecroft, Wagenaar, Soutar, Edwards,
+  Deering, Grinham, and Albert}]{Hutley2023}
+Hutley, N.~R., Beecroft, R., Wagenaar, D., Soutar, J., Edwards, B., Deering,
+  N., Grinham, A., and Albert, S.: Adaptively monitoring streamflow using a
+  stereo computer vision system, Hydrology and Earth System Sciences, 27,
+  2051--2073, \doi{10.5194/hess-27-2051-2023}, 2023.
+
+\bibitem[{ISO 24578:2021()}]{ISO24578}
+ISO 24578:2021: Acoustic Doppler profiler -- Method and application for
+  measurement of flow in open channels from a moving boat, Standard,
+  International Organization for Standardization, Geneva, CH, 2001.
+
+\bibitem[{Jodeau et~al.(2008)Jodeau, Hauet, Paquier, Le~Coz, and
+  Dramais}]{Jodeau2008}
+Jodeau, M., Hauet, A., Paquier, A., Le~Coz, J., and Dramais, G.: Application
+  and evaluation of LS-PIV technique for the monitoring of river surface
+  velocities in high flow conditions, Flow Measurement and Instrumentation, 19,
+  117--127, 2008.
+
+\bibitem[{Jolley et~al.(2021)Jolley, Russell, Quinn, and Perks}]{Jolley2021}
+Jolley, M.~J., Russell, A.~J., Quinn, P.~F., and Perks, M.~T.: Considerations
+  When Applying Large-Scale PIV and PTV for Determining River Flow Velocity,
+  Frontiers in Water, 2021.
+
+\bibitem[{Kalal et~al.(2010)Kalal, Mikolajczyk, and Matas}]{Kalal2010}
+Kalal, Z., Mikolajczyk, K., and Matas, J.: Forward-backward error: Automatic
+  detection of tracking failures, in: Pattern Recognition (ICPR), 2010 20th
+  International Conference on, pp. 2756--2759, IEEE, 2010.
+
+\bibitem[{Khalid et~al.(2019)Khalid, P{\'e}nard, and M{\'e}min}]{Khalid2019}
+Khalid, M., P{\'e}nard, L., and M{\'e}min, E.: Optical flow for image-based
+  river velocity estimation, Flow Measurement and Instrumentation, 65,
+  110--121, 2019.
+
+\bibitem[{Kiang et~al.(2018)Kiang, Gazoorian, McMillan, Coxon, Le~Coz,
+  Westerberg, Belleville, Sevrez, Sikorska, Petersen-Øverleir, Reitan, Freer,
+  Renard, Mansanarez, and Mason}]{Kiang2018}
+Kiang, J.~E., Gazoorian, C., McMillan, H., Coxon, G., Le~Coz, J., Westerberg,
+  I.~K., Belleville, A., Sevrez, D., Sikorska, A.~E., Petersen-Øverleir, A.,
+  Reitan, T., Freer, J., Renard, B., Mansanarez, V., and Mason, R.: A
+  Comparison of Methods for Streamflow Uncertainty Estimation, Water Resources
+  Research, 54, 7149--7176, \doi{https://doi.org/10.1029/2018WR022708}, 2018.
+
+\bibitem[{Kidson and Richards(2005)}]{Kidson2005}
+Kidson, R. and Richards, K.~S.: Flood frequency analysis: assumptions and
+  alternatives, Progress in Physical Geography: Earth and Environment, 29,
+  392--410, \doi{10.1191/0309133305pp454ra}, 2005.
+
+\bibitem[{Kim et~al.(2015)Kim, Kim, Son, and Kim}]{Kim2015}
+Kim, J., Kim, D., Son, G., and Kim, S.: Accuracy analysis of velocity and water
+  depth measurement in the straight channel using ADCP, Journal of Korea Water
+  Resources Association, 48, 367--377, 2015.
+
+\bibitem[{Kim et~al.(2008)Kim, Muste, Hauet, Krajewski, Kruger, and
+  Bradley}]{Kim2008}
+Kim, Y., Muste, M., Hauet, A., Krajewski, W.~F., Kruger, A., and Bradley, A.:
+  Stream discharge using mobile large-scale particle image velocimetry: A proof
+  of concept, Water Resources Research, 44, \doi{10.1029/2006WR005441}, 2008.
+
+\bibitem[{Le~Coz et~al.(2010)Le~Coz, Hauet, Pierrefeu, Dramais, and
+  Camenen}]{LeCoz2010}
+Le~Coz, J., Hauet, A., Pierrefeu, G., Dramais, G., and Camenen, B.: Performance
+  of image-based velocimetry (LSPIV) applied to flash-flood discharge
+  measurements in Mediterranean rivers, Journal of Hydrology, 394, 42--52,
+  \doi{https://doi.org/10.1016/j.jhydrol.2010.05.049}, flash Floods:
+  Observations and Analysis of Hydrometeorological Controls, 2010.
+
+\bibitem[{Leitão et~al.(2018)Leitão, Peña-Haro, Lüthi, Scheidegger, and
+  de~Vitry}]{Leitao2018}
+Leitão, J.~P., Peña-Haro, S., Lüthi, B., Scheidegger, A., and de~Vitry,
+  M.~M.: Urban overland runoff velocity measurement with consumer-grade
+  surveillance cameras and surface structure image velocimetry, Journal of
+  Hydrology, 565, 791 -- 804,
+  \doi{https://doi.org/10.1016/j.jhydrol.2018.09.001}, 2018.
+
+\bibitem[{Levesque and Oberg(2012)}]{Levesque2012}
+Levesque, V.~A. and Oberg, K.~A.: Computing discharge using the index velocity
+  method, US Department of the Interior, US Geological Survey, 2012.
+
+\bibitem[{Lewis et~al.(2018)Lewis, Lindroth, and Rhoads}]{Lewis2018}
+Lewis, Q.~W., Lindroth, E.~M., and Rhoads, B.~L.: Integrating unmanned aerial
+  systems and LSPIV for rapid, cost-effective stream gauging, Journal of
+  Hydrology, 560, 230--246,
+  \doi{https://doi.org/10.1016/j.jhydrol.2018.03.008}, 2018.
+
+\bibitem[{Lin et~al.(2019)Lin, Grundmann, and Eltner}]{Lin2019}
+Lin, D., Grundmann, J., and Eltner, A.: Evaluating image tracking approaches
+  for surface velocimetry with thermal tracers, Water Resources Research, 55,
+  3122--3136, 2019.
+
+\bibitem[{Lucas and Kanade(1981)}]{Lucas1981}
+Lucas, B.~D. and Kanade, T.: An Iterative Image Registration Technique with an
+  Application to Stereo Vision, in: Proceedings of the 7th International Joint
+  Conference on Artificial Intelligence - Volume 2, IJCAI'81, pp. 674--679,
+  Morgan Kaufmann Publishers Inc., San Francisco, CA, USA,
+  \urlprefix\url{http://dl.acm.org/citation.cfm?id=1623264.1623280}, 1981.
+
+\bibitem[{Masafu et~al.(2022)Masafu, Williams, Shi, Yuan, and
+  Trigg}]{Masafu2022}
+Masafu, C., Williams, R., Shi, X., Yuan, Q., and Trigg, M.: Unpiloted Aerial
+  Vehicle (UAV) image velocimetry for validation of two-dimensional hydraulic
+  model simulations, Journal of Hydrology, 612, 128\,217,
+  \doi{https://doi.org/10.1016/j.jhydrol.2022.128217}, 2022.
+
+\bibitem[{McMillan et~al.(2017)McMillan, Seibert, Petersen-Overleir, Lang,
+  White, Snelder, Rutherford, Krueger, Mason, and Kiang}]{McMillan2017}
+McMillan, H., Seibert, J., Petersen-Overleir, A., Lang, M., White, P., Snelder,
+  T., Rutherford, K., Krueger, T., Mason, R., and Kiang, J.: How uncertainty
+  analysis of streamflow data can reduce costs and promote robust decisions in
+  water management applications, Water Resources Research, 53, 5220--5228,
+  \doi{https://doi.org/10.1002/2016WR020328}, 2017.
+
+\bibitem[{Messerli and Grinsted(2015)}]{Messerli2015}
+Messerli, A. and Grinsted, A.: Image georectification and feature tracking
+  toolbox: ImGRAFT, Geoscientific Instrumentation, Methods and Data Systems, 4,
+  23--34, \doi{10.5194/gi-4-23-2015}, 2015.
+
+\bibitem[{Moramarco and Singh(2010)}]{Moramarco2010}
+Moramarco, T. and Singh, V.~P.: Formulation of the Entropy Parameter Based on
+  Hydraulic and Geometric Characteristics of River Cross Sections, Journal of
+  Hydrologic Engineering, 15, 852--858,
+  \doi{10.1061/(ASCE)HE.1943-5584.0000255}, 2010.
+
+\bibitem[{Muste et~al.(2008)Muste, Fujita, and Hauet}]{Muste2008}
+Muste, M., Fujita, I., and Hauet, A.: Large-scale particle image velocimetry
+  for measurements in riverine environments, Water Resources Research, 44,
+  2008.
+
+\bibitem[{Pearce et~al.(2020)Pearce, Ljubi{\v{c}}i{\'{c}}, Pe{\~{n}}a-Haro,
+  Perks, Tauro, Pizarro, {Dal Sasso}, Strelnikova, Grimaldi, Maddock, Paulus,
+  Plav{\v{s}}i{\'{c}}, Prodanovi{\'{c}}, and Manfreda}]{Pearce2020}
+Pearce, S., Ljubi{\v{c}}i{\'{c}}, R., Pe{\~{n}}a-Haro, S., Perks, M., Tauro,
+  F., Pizarro, A., {Dal Sasso}, S., Strelnikova, D., Grimaldi, S., Maddock, I.,
+  Paulus, G., Plav{\v{s}}i{\'{c}}, J., Prodanovi{\'{c}}, D., and Manfreda, S.:
+  {An Evaluation of Image Velocimetry Techniques under Low Flow Conditions and
+  High Seeding Densities Using Unmanned Aerial Systems}, Remote Sensing, 12,
+  232, \doi{10.3390/rs12020232}, 2020.
+
+\bibitem[{Pe{\~n}a-Haro et~al.(2021)Pe{\~n}a-Haro, Carrel, L{\"u}thi, Hansen,
+  and Lukes}]{Haro2021}
+Pe{\~n}a-Haro, S., Carrel, M., L{\"u}thi, B., Hansen, I., and Lukes, R.: Robust
+  Image-Based Streamflow Measurements for Real-Time Continuous Monitoring,
+  Frontiers in Water, 3, \doi{10.3389/frwa.2021.766918}, 2021.
+
+\bibitem[{Perks et~al.(2024)Perks, Pitman, Bainbridge, Diaz-Moreno, and
+  Dunning}]{perks2024}
+Perks, M., Pitman, S., Bainbridge, R., Diaz-Moreno, A., and Dunning, S.: An
+  evaluation of low-cost terrestrial lidar sensors for assessing
+  hydrogeomorphic change, Earth and Space Science, 11, e2024EA003\,514, 2024.
+
+\bibitem[{Perks(2020)}]{Perks2020a}
+Perks, M.~T.: {KLT-IV v1.0: Image velocimetry software for use with fixed and
+  mobile platforms}, Geoscientific Model Development,
+  \doi{10.5194/gmd-2020-187}, 2020.
+
+\bibitem[{Perks(2024{\natexlab{a}})}]{Perks2024B}
+Perks, M.~T.: {User input files for River Dart image velocimetry analysis},
+  \doi{10.25405/data.ncl.19762027}, 2024{\natexlab{a}}.
+
+\bibitem[{Perks(2024{\natexlab{b}})}]{vid_analysis}
+Perks, M.~T.: Video frame rate analysis, \doi{10.25405/data.ncl.19762216},
+  2024{\natexlab{b}}.
+
+\bibitem[{Perks(2025{\natexlab{a}})}]{alpha_analysis}
+Perks, M.~T.: Surface alpha coefficients following analysis of aDcp transects,
+  \doi{10.25405/data.ncl.28581962}, 2025{\natexlab{a}}.
+
+\bibitem[{Perks(2025{\natexlab{b}})}]{historic_flow}
+Perks, M.~T.: Historical flow gauging data acquired at Austin's Bridge, River
+  Dart (UK) by the Environment Agency, \doi{10.25405/data.ncl.},
+  2025{\natexlab{b}}.
+
+\bibitem[{Perks et~al.(2016)Perks, Russell, and Large}]{Perks2016}
+Perks, M.~T., Russell, A.~J., and Large, A.~R.: Advances in flash flood
+  monitoring using unmanned aerial vehicles (UAVs), Hydrology and Earth System
+  Sciences, 20, 4005--4015, 2016.
+
+\bibitem[{Pizarro et~al.(2020{\natexlab{a}})Pizarro, Dal~Sasso, and
+  Manfreda}]{pizarro2020refining}
+Pizarro, A., Dal~Sasso, S.~F., and Manfreda, S.: Refining image-velocimetry
+  performances for streamflow monitoring: Seeding metrics to errors
+  minimization, Hydrological Processes, 34, 5167--5175, 2020{\natexlab{a}}.
+
+\bibitem[{Pizarro et~al.(2020{\natexlab{b}})Pizarro, Dal~Sasso, Perks, and
+  Manfreda}]{pizarro2020}
+Pizarro, A., Dal~Sasso, S.~F., Perks, M.~T., and Manfreda, S.: Identifying the
+  optimal spatial distribution of tracers for optical sensing of stream surface
+  flow, Hydrology and Earth System Sciences, 24, 5173--5185,
+  2020{\natexlab{b}}.
+
+\bibitem[{Pumo et~al.(2021)Pumo, Alongi, Ciraolo, and Noto}]{pumo2021optical}
+Pumo, D., Alongi, F., Ciraolo, G., and Noto, L.~V.: Optical methods for river
+  monitoring: A simulation-based approach to explore optimal experimental setup
+  for LSPIV, Water, 13, 247, 2021.
+
+\bibitem[{Ran et~al.(2016)Ran, Li, Liao, Tang, and Wang}]{Ran2016}
+Ran, Q.-h., Li, W., Liao, Q., Tang, H.-l., and Wang, M.-y.: Application of an
+  automated LSPIV system in a mountainous stream for continuous flood flow
+  measurements, Hydrological Processes, 30, 3014--3029,
+  \doi{https://doi.org/10.1002/hyp.10836}, 2016.
+
+\bibitem[{Shi and Tomasi(1994)}]{Shi1994}
+Shi, J. and Tomasi, C.: Good features to track, in: Proceedings of IEEE
+  Conference on Computer Vision and Pattern Recognition, pp. 593--600, ISSN
+  1063-6919, \doi{10.1109/CVPR.1994.323794}, 1994.
+
+\bibitem[{Stumpf et~al.(2016)Stumpf, Augereau, Delacourt, and
+  Bonnier}]{Stumpf2016}
+Stumpf, A., Augereau, E., Delacourt, C., and Bonnier, J.: Photogrammetric
+  discharge monitoring of small tropical mountain rivers: A case study at
+  Rivière des Pluies, Réunion Island, Water Resources Research, 52,
+  4550--4570, \doi{10.1002/2015WR018292}, 2016.
+
+\bibitem[{Tauro et~al.(2017)Tauro, Piscopia, and Grimaldi}]{Tauro2017b}
+Tauro, F., Piscopia, R., and Grimaldi, S.: Streamflow Observations From
+  Cameras: Large-Scale Particle Image Velocimetry or Particle Tracking
+  Velocimetry?, Water Resources Research, 53, 10\,374--10\,394,
+  \doi{10.1002/2017WR020848}, 2017.
+
+\bibitem[{Tauro et~al.(2018{\natexlab{a}})Tauro, Selker, van~de Giesen, Abrate,
+  Uijlenhoet, Porfiri, Manfreda, Caylor, Moramarco, Benveniste, Ciraolo, Estes,
+  Domeneghetti, Perks, Corbari, Rabiei, Ravazzani, Bogena, Harfouche, Brocca,
+  Maltese, Wickert, Tarpanelli, Good, Alcala, Petroselli, Cudennec, Blume, Hut,
+  and Grimaldi}]{Tauro2018}
+Tauro, F., Selker, J., van~de Giesen, N., Abrate, T., Uijlenhoet, R., Porfiri,
+  M., Manfreda, S., Caylor, K., Moramarco, T., Benveniste, J., Ciraolo, G.,
+  Estes, L., Domeneghetti, A., Perks, M.~T., Corbari, C., Rabiei, E.,
+  Ravazzani, G., Bogena, H., Harfouche, A., Brocca, L., Maltese, A., Wickert,
+  A., Tarpanelli, A., Good, S., Alcala, J. M.~L., Petroselli, A., Cudennec, C.,
+  Blume, T., Hut, R., and Grimaldi, S.: Measurements and Observations in the
+  XXI century (MOXXI): innovation and multi-disciplinarity to sense the
+  hydrological cycle, Hydrological Sciences Journal, 63, 169--196,
+  \doi{10.1080/02626667.2017.1420191}, 2018{\natexlab{a}}.
+
+\bibitem[{Tauro et~al.(2018{\natexlab{b}})Tauro, Tosi, Mattoccia, Toth,
+  Piscopia, and Grimaldi}]{Tauro2018b}
+Tauro, F., Tosi, F., Mattoccia, S., Toth, E., Piscopia, R., and Grimaldi, S.:
+  Optical Tracking Velocimetry (OTV): Leveraging Optical Flow and
+  Trajectory-Based Filtering for Surface Streamflow Observations, Remote
+  Sensing, 10, \urlprefix\url{http://www.mdpi.com/2072-4292/10/12/2010},
+  2018{\natexlab{b}}.
+
+\bibitem[{Thielicke and Sonntag(2021)}]{Thielicke2021}
+Thielicke, W. and Sonntag, R.: Particle Image Velocimetry for MATLAB: Accuracy
+  and enhanced algorithms in PIVlab, Journal of Open Research Software,
+  \doi{10.5334/jors.334}, 2021.
+
+\bibitem[{Tomasi and Kanade(1991)}]{Tomasi1991}
+Tomasi, C. and Kanade, T.: Detection and tracking of point, International
+  Journal of Computer Vision, 9, 137--154, 1991.
+
+\bibitem[{Tosi et~al.(2020)Tosi, Rocca, Aleotti, Poggi, Mattoccia, Tauro, Toth,
+  and Grimaldi}]{Tosi2020}
+Tosi, F., Rocca, M., Aleotti, F., Poggi, M., Mattoccia, S., Tauro, F., Toth,
+  E., and Grimaldi, S.: Enabling image-based streamflow monitoring at the edge,
+  Remote Sensing, 12, 2047, 2020.
+
+\bibitem[{Turnipseed and Sauer(2010)}]{turnipseed2010discharge}
+Turnipseed, D.~P. and Sauer, V.~B.: Discharge measurements at gaging stations,
+  Tech. rep., US Geological Survey, 2010.
+
+\bibitem[{{UK CEH}(2024)}]{ceh2024}
+{UK CEH}: NFRA Mean flow data for 46003 - Dart at Austins Bridge, Tech. rep.,
+  \urlprefix\url{https://nrfa.ceh.ac.uk/data/station/meanflow/46003}, 2024.
+
+\bibitem[{Vyas et~al.(2024)Vyas, Perumal, and Moramarco}]{vyas2024}
+Vyas, J.~K., Perumal, M., and Moramarco, T.: Non-contact discharge estimation
+  at a river site by using only the maximum surface flow velocity, Journal of
+  Hydrology, p. 131505, 2024.
+
+\bibitem[{Wang et~al.(2024)Wang, Chen, Yao, and Li}]{Wang2024}
+Wang, J., Chen, Y., Yao, G., and Li, N.: Adaptive river flow measurement method
+  based on spatiotemporal image velocimetry and optical flow, Water Science \&
+  Technology, p. wst2024038, 2024.
+
+\end{thebibliography}

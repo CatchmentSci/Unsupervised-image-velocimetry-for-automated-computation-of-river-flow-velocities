@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: article_v1.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+The style file: copernicus.bst
+Reallocating 'name_of_file' (item size: 1) to 140 items.
+Database file #1: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-river-flow-velocities/Main/Initial_submission_2024/references.bib
+Warning--empty author in ISO24578
+Warning--empty journal in Perks2024B
+Warning--missing institution in ceh2024
+You've used 64 entries,
+            2932 wiz_defined-function locations,
+            1485 strings with 25036 characters,
+and the built_in function-call counts, 61185 in all, are:
+= -- 6523
+> -- 2545
+< -- 31
++ -- 1126
+- -- 791
+* -- 3949
+:= -- 6285
+add.period$ -- 64
+call.type$ -- 64
+change.case$ -- 396
+chr.to.int$ -- 65
+cite$ -- 195
+duplicate$ -- 5955
+empty$ -- 3264
+format.name$ -- 985
+if$ -- 12153
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 707
+newline$ -- 201
+num.names$ -- 253
+pop$ -- 2518
+preamble$ -- 1
+purify$ -- 392
+quote$ -- 0
+skip$ -- 3759
+stack$ -- 0
+substring$ -- 2374
+swap$ -- 4962
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 567
+warning$ -- 3
+while$ -- 305
+width$ -- 0
+write$ -- 739
+(There were 3 warnings)

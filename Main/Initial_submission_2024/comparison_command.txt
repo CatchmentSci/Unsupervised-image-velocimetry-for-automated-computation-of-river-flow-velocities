@@ -1,0 +1,10 @@
+In both tex files, change the graphicspath command to: 
+\graphicspath {{C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-river-flow-velocities/Main/Initial_submission_2024/Figures}}
+
+latexdiff article_v1.bbl article_v2.bbl > diff.bbl
+
+latexdiff -t UNDERLINE "C:\_git_local\Unsupervised-image-velocimetry-for-automated-computation-of-river-flow-velocities\Main\Initial_submission_2024\article_v1.tex" "C:\_git_local\Unsupervised-image-velocimetry-for-automated-computation-of-river-flow-velocities\Main\Initial_submission_2024\article_v2.tex" > diff.tex --flatten --enforce-auto-mbox --graphics-markup=both
+
+Compile the diff.tex file in latex
+
+When uploading the .tex file to AGU website, ensure that there are no links to the graphicspath and that there are no file extensions (e.g. .pdf) appended to the file names

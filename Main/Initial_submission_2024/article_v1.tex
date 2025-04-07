@@ -27,13 +27,15 @@
 
 % MP added
 \usepackage{nomencl}
-\usepackage{siunitx}
+%\usepackage{siunitx}
 \usepackage{placeins}
 \usepackage{enumitem}   
 \usepackage[symbol]{footmisc}
 
 
 \begin{document}
+
+\graphicspath {{C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-river-flow-velocities/Main/Initial_submission_2024/Figures}}
 
 \renewcommand{\thefootnote}{\fnsymbol{footnote}}
 
@@ -77,8 +79,7 @@ Accurate, long-term, measurements of river flow are imperative for understanding
 \end{abstract}
 
 
-\introduction
-
+\section{Introduction}
 Accurate hydrological data are fundamental to enable advances in understanding the physical processes occurring in river systems (e.g. sediment entrainment, transport, and channel change), to drive hydraulic models that predict the extent of floods, and to provide flood warnings to the public \citep{McMillan2017,Tauro2018}. However, classical approaches for the determination of key hydrological variables such as river discharge are costly to maintain and require investment of significant resources \citep{Fekete2007}. In the absence of measuring structures (e.g. weirs, flumes), continuous time-series of flow discharge are most commonly generated through acquisition of episodic, paired observations of river stage and flow discharge, from which a stage-discharge relation can be computed with continuous discharge data being subsequently generated as a function of river stage \citep{Kiang2018}. As part of this workflow, velocity measurements are often carried out using an acoustic Doppler current profiler (aDcp), or current meter \citep{Herschy2014}. However, there is demand for lower cost solutions, and development of techniques that are more readily applicable in periods of high flow when the use of standard approaches may not be possible, or induce elevated uncertainty \citep{Kidson2005, Baldassarre2009}. 
 
 One approach that has gained interest in recent years is the computation of water surface velocity through image-processing techniques, and its subsequent conversion to a mean section velocity \citep{Jolley2021}. Measurements of surface velocity can be achieved through the application of methods that may be broadly categorised as: particle tracking velocimetry (PTV) \citep{Brevis2011,Tauro2017b}; large scale particle image velocimetry (LSPIV) \citep{Fujita1998, Muste2008}; or space-time image velocimetry (STIV) \citep{Fujita2007}. These techniques were initially employed to acquire flow measurements from fixed stations \citep{Bradley2002,Hauet2008,Stumpf2016}, or temporary ground stations \citep{Jodeau2008, Kim2008, Dramais2011}. These have subsequently been applied to imagery acquired from uncrewed aerial systems \citep[e.g., ][]{Lewis2018, Masafu2022}, and mobile phones \citep[e.g., DischargeApp; ][]{Haro2021}. 
@@ -98,7 +99,7 @@ At the site of the field experiment (50.479247$\degree$ N, -3.761540$\degree$ E;
 % Insert the first figure
 \begin{figure}[!htb]
 \centering 
-\includegraphics[width=8.3cm]{Main/Initial_submission_2024/Figures/Figure1.pdf}
+\includegraphics[width=8.3cm]{Figure1.pdf}
 \caption{Location of the field experiment on the River Dart at Austins Bridge (red circle). River network and flow direction are shown by the blue lines and arrows respectively. Aerial imagery provided by EDINA Aerial Digimap Service (\citeyear{EDINA2022}). Inset map shows the monitoring location in the context of the UK.}
 \label{Figure1} 
 \end{figure}
@@ -109,7 +110,7 @@ The image acquisition hardware consists of an obliquely mounted Hikvision DS-2CD
 % Insert the initial site setup figure
 \begin{figure*}[]
 \centering\Large
-\subfloat{\label{figure:2}\includegraphics[width=16cm]{Main/Initial_submission_2024/Figures/Figure2.pdf}} \\
+\subfloat{\label{figure:2}\includegraphics[width=16cm]{Figure2.pdf}} \\
 \caption{Schematic illustrating the monitoring station setup and the camera's partial view of the river cross-section. Cross-section data is presented up to the maximum observed river level. Red dashed lines illustrate the camera's field of view. The image presented is an orthophoto produced from footage acquired on 29\textsuperscript{th} December 2018 at 13:00GMT when the flow discharge was $\approx12\textnormal{m\textsuperscript{3} s\textsuperscript{-1}}$, and section averaged flow velocity was $\approx0.54\textnormal{m s\textsuperscript{-1}}$. Vectors represent the direction and velocity of [A] only those features that pass through the cross-section of interest; and [B] all tracked features within the region of interest. Vectors coloured black are trajectories that have been filtered. In the application of theoretical flow field distributions (Figure 2A; Section 2.5.1), surface velocity data is converted to a depth-averaged before being binned into one of 20 equal-width cells enabling the cell-averaged velocity to be obtained. Blue dashes represent the spatial extent of the detected surface features and extrapolation of the flow field is required beyond this extent. The foundation of the velocity index approach (Figure 2B; Section 2.5.2), is that the average surface velocity from across the field of view can be linearly related to the 1-D velocity. }
 \label{Figure2} 
 \end{figure*}
@@ -141,7 +142,7 @@ Upon the reconstruction of the surface flow velocity field, it is common for the
 % Insert the second figure
 \begin{figure*}[]
 \centering 
-\includegraphics[width=12cm]{Main/Initial_submission_2024/Figures/Figure3.pdf}
+\includegraphics[width=12cm]{Figure3.pdf}
 \caption{Schematic diagram illustrating the workflow of the data analysis as described in Section 2.5. * Analysis settings are described in Section 2.1-2.4. Items within the red box relate to the methods presented in Section 2.5.1, and items in the blue box are related to Section 2.5.2. † Derivation of river stage measurements in the local coordinate system are shown in Equation 1. ‡ Results are presented in Section 3.1 and § results are presented in Section 3.2.}
 \label{Figure3} 
 \end{figure*}
@@ -185,7 +186,7 @@ Comparison of velocity profiles generated by Sontek River Surveyor M9 aDcp to th
 % Insert the third figure
 \begin{figure}[H]
 \centering 
-\includegraphics[width=6.6cm]{Main/Initial_submission_2024/Figures/Figure4.pdf}
+\includegraphics[width=6.6cm]{Figure4.pdf}
 \caption{Relationship between the image-based 1-D flow velocity ($\tilde{U}\textsubscript{xs}$) and 1-D flow velocity derived from Environment Agency flow gauging measurements ($U\textsubscript{a}$). Interpolation between, and extrapolation beyond, observed cross-section velocities is achieved using [A] a quadratic function, [B] cubic function, and [C] constant Froude number assumption. Red dots are used to show the $\tilde{U}\textsubscript{a}$ values that are plotted in Figure \ref{Figure5}.}
 \label{Figure4} 
 \end{figure}
@@ -193,7 +194,7 @@ Comparison of velocity profiles generated by Sontek River Surveyor M9 aDcp to th
 % Insert the fourth figure
 \begin{figure*}[!htb]
 \centering\Large
-\includegraphics[width=16cm]{Main/Initial_submission_2024/Figures/Figure5.pdf}
+\includegraphics[width=16cm]{Figure5.pdf}
 \caption{A selection of cross-section velocities illustrating the deviation between the Sontek aDcp velocity magnitudes (grey circles) and KLT-IV generated velocities for a range of flow conditions. Measured velocities are shown by the red filled circles, whereas estimates based on the constant Froude number assumption are shown by the red open circles. Error bars illustrate the standard deviation of stationary aDcp measurements. Flow discharge measurements for the aDcp transects are presented in each subplot along with the percent difference between discharge reported by aDcp and the reconstructed discharge using KLT-IV.}
 \label{Figure5} 
 \end{figure*}
@@ -207,7 +208,7 @@ The hydrological conditions observed during the calibration period led to the re
 % Insert the fifth figure
 \begin{figure}[!htb]
 \centering 
-\includegraphics[width=8.3cm]{Main/Initial_submission_2024/Figures/Figure6.pdf}
+\includegraphics[width=8.3cm]{Figure6.pdf}
 \caption{Results of monte-carlo simulations, where the number of paired selections of $U\textsubscript{a}$ and $\bar{U}\textsubscript{s}$ are varied to determine its influence on the calibration of the KLT-IV approach.}
 \label{Figure6} 
 \end{figure}
@@ -219,7 +220,7 @@ This overestimation of $\bar{U}\textsubscript{s}$ relative to $U\textsubscript{a
 % Insert the sixth figure
 \begin{figure}[!htb]
 \centering 
-\includegraphics[width=7.9cm]{Main/Initial_submission_2024/Figures/Figure7.pdf}
+\includegraphics[width=7.9cm]{Figure7.pdf}
 \caption{Bi-plot and linear fit between KLT-IV derived velocity measurements [$\tilde{U}\textsubscript{a}$] and reference velocity measurements [$U\textsubscript{a}$] during [A] the calibration period and [B] validation period. The solid line represents the linear fit between variables, with the 1:1 line also shown (dashed line).}
 \label{Figure7} 
 \end{figure}
@@ -233,7 +234,7 @@ Whilst this article has examined the inter-comparability of 1-D velocities obtai
 % Insert the seventh figure
 \begin{figure}[!htb]
 \centering 
-\includegraphics[width=\textwidth]{Main/Initial_submission_2024/Figures/Figure8_v2.pdf}
+\includegraphics[width=\textwidth]{Figure8_v2.pdf}
 \caption{[A] Stage-discharge plots for the River Dart at Austins Bridge (UK) following analysis of imagery acquired over a one-year period (shown in the red and blue), and developed using conventional flow gauging techniques between 1981-2018 (grey). [B] Comparison between image-based discharge estimates and reference discharge estimates with 1:1 line shown.}
 \label{Figure8} 
 \end{figure}
@@ -254,7 +255,7 @@ In the generation of a camera model to be used for the generation of orthophotos
 Recent research has illustrated the precision of optical flow methods for reconstructing flow dynamics and highlighted their relative insensitivity to parameterisation \citep{Pearce2020}. This has naturally led to application of these techniques becoming increasingly widespread for the purposes of obtaining dense surface flow fields, with their adoption into continuous monitoring workflows now becoming established \citep[e.g.][]{Hutley2023}. However, a significant challenge in application of these methods within unsupervised workflows is the presence of environmental noise which leads to either a reduction in successfully tracked tracers or the presence of successfully tracked features that cannot readily be related to the depth-averaged flow. Generally this is presented as: i) noise that impacts the quality of the imagery and visibility of the water surface (e.g. in-homogeneous lighting of the water surface, bright-spots on the camera lens, precipitation), ii) the water surface texture lacking sufficient detail to enable dense flow fields to be established; iii) environmental factors that influence the quality of the measurements (e.g. tracking of features affected by the presence of standing waves, or wind-induced effects). In the research presented here, we have not sought to address these issues directly. However, to improve robustness of the outputs, further analysis could be undertaken to identify and apply appropriate seeding density metrics to evaluate the quality of entire videos, or eliminate poorly seeded image sequences from analysis, or focus analysis on specific cross-sections within the imagery to improve the quality of reconstructions. Alternatively, the influence of optical noise may be reduced through application of dynamic weighting across the image scene \citep[e.g.][]{Cao2022}. Furthermore, utilisation of surrogate information (e.g. wind-speed and direction) may be used to identify time periods where wind-shear may have significant effects on the apparent surface velocities, allowing corrections to be established and applied where required. The potential for optical flow methods to be improved through application of deep learning models is also significant. \citet{Ansari2023} provided evidence for a range of CNN optical flow models (collectively termed RivQNet) to improve flow reconstructions in challenging environmental conditions. Further refinement and training of these methods may offer significant performance benefits. 
 
 
-\conclusions  %% \conclusions[modified heading if necessary]
+\section{Conclusions}
 In this study, we investigate the potential for an open-source toolbox (KLT-IV) to reconstruct the surface flow field of the River Dart (UK) for the purposes of estimating section averaged (1-D velocity) in an unsupervised and autonomous workflow. Given the partial view of the channel that is visible from the camera sensing system (73\% of the channel width under normal flow conditions), application of appropriate data-fitting methods, or establishment of index-based approaches was required to interpolate within and extrapolate beyond the field of view. Following image acquisition over a period of one-year, and following analysis of over 11,000 videos, we can draw the following conclusions:
 
 \begin{enumerate}
@@ -267,20 +268,17 @@ In this study, we investigate the potential for an open-source toolbox (KLT-IV) 
 \end{enumerate}
 
 
-%% The following commands are for the statements about the availability of data sets and/or software code corresponding to the manuscript.
-%% It is strongly recommended to make use of these sections in case data sets and/or software code have been part of your research the article is based on.
-
-\codedataavailability{
+\section*{Code availability}
 The version of KLT-IV used for this analysis can be found at \url{https://github.com/CatchmentSci/KLT-IV}. Data used in the production of this article can be accessed at \citet{Perks2024B}. Scripts used to generate the Figures presented in this article can be accessed at: \url{https://github.com/CatchmentSci/automated-computation-of-river-flow-velocities}.
-}
 
-\authorcontribution{MTP led the investigation including conceptualisation, formal analysis and writing; BH contributed to methodology, and original draft preparation; JR provided resources, specifically access to the UK Environment Agency datasets, all authors contributed to project conceptualization, review and editing.} %% this section is mandatory
+\section*{Author contribution}
+MTP led the investigation including conceptualisation, formal analysis and writing; BH contributed to methodology, and original draft preparation; JR provided resources, specifically access to the UK Environment Agency datasets, all authors contributed to project conceptualization, review and editing.
 
-\competinginterests{The authors declare that they have no conflict of interest.} %% this section is mandatory even if you declare that no competing interests are present
+\section*{Competing Interests}
+The authors declare that they have no conflict of interest.
 
-\begin{acknowledgements}
+\section*{Acknowledgements}
 This work was funded by NERC grant NE/K008781/1 "Susceptiblity of catchments to INTense RAinfall and Flooding (SINATRA)", and in collaboration with the Environment Agency. The authors thank the Environment Agency for providing the flow time-series, gauging records, and cross-section information for the River Dart at Austins Bridge (Station number: 46003).
-\end{acknowledgements}
 
 
 %% REFERENCES
@@ -301,7 +299,7 @@ This work was funded by NERC grant NE/K008781/1 "Susceptiblity of catchments to 
 %% authors experienced with BibTeX only have to include the following two lines:
 %%
 \bibliographystyle{copernicus}
-\bibliography{references}
+\bibliography{{C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-river-flow-velocities/Main/Initial_submission_2024/references.bib}}
 
 %%
 %% URLs and DOIs can be entered in your BibTeX file as:
