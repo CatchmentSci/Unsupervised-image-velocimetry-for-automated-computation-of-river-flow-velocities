@@ -1,4 +1,4 @@
-\begin{thebibliography}{69}
+\begin{thebibliography}{70}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{}
@@ -6,6 +6,9 @@
   \providecommand{\doi}[1]{https://doi.org/\discretionary{}{}{}#1}\else
   \providecommand{\doi}{https://doi.org/\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
+
+\bibitem[{alp()}]{alpha_analysis}
+Surface alpha coefficients following analysis of aDcp transects.
 
 \bibitem[{Ansari et~al.(2023)Ansari, Rennie, Jamieson, Seidou, and
   Clark}]{Ansari2023}
@@ -261,6 +264,15 @@ Muste, M., Fujita, I., and Hauet, A.: Large-scale particle image velocimetry
   for measurements in riverine environments, Water Resources Research, 44,
   2008.
 
+\bibitem[{Nord et~al.(2025)Nord, Safdar, Hasanyar, Eze, Biron, Freche, Denis,
+  Legout, Hauet, and Esteves}]{Nord2025}
+Nord, G., Safdar, S., Hasanyar, M., Eze, K.~O., Biron, R., Freche, G., Denis,
+  H., Legout, C., Hauet, A., and Esteves, M.: Streamflow Monitoring at High
+  Temporal Resolution Based on Non-Contact Instruments and Manually Surveyed
+  Bathymetry in a River Prone to Bathymetric Shifts, Water Resources Research,
+  61, e2024WR037\,536, \doi{https://doi.org/10.1029/2024WR037536},
+  e2024WR037536 2024WR037536, 2025.
+
 \bibitem[{Pearce et~al.(2020)Pearce, Ljubi{\v{c}}i{\'{c}}, Pe{\~{n}}a-Haro,
   Perks, Tauro, Pizarro, {Dal Sasso}, Strelnikova, Grimaldi, Maddock, Paulus,
   Plav{\v{s}}i{\'{c}}, Prodanovi{\'{c}}, and Manfreda}]{Pearce2020}
@@ -296,14 +308,9 @@ Perks, M.~T.: {User input files for River Dart image velocimetry analysis},
 Perks, M.~T.: Video frame rate analysis, \doi{10.25405/data.ncl.19762216},
   2024{\natexlab{b}}.
 
-\bibitem[{Perks(2025{\natexlab{a}})}]{alpha_analysis}
-Perks, M.~T.: Surface alpha coefficients following analysis of aDcp transects,
-  \doi{10.25405/data.ncl.28581962}, 2025{\natexlab{a}}.
-
-\bibitem[{Perks(2025{\natexlab{b}})}]{historic_flow}
+\bibitem[{Perks(2025)}]{historic_flow}
 Perks, M.~T.: Historical flow gauging data acquired at Austin's Bridge, River
-  Dart (UK) by the Environment Agency, \doi{10.25405/data.ncl.},
-  2025{\natexlab{b}}.
+  Dart (UK) by the Environment Agency, \doi{10.25405/data.ncl.28741436}, 2025.
 
 \bibitem[{Perks et~al.(2016)Perks, Russell, and Large}]{Perks2016}
 Perks, M.~T., Russell, A.~J., and Large, A.~R.: Advances in flash flood

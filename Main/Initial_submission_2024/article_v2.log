@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.12)  7 APR 2025 12:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.12)  28 APR 2025 10:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3222,7 +3222,7 @@ iver-flow-velocities/Main/Initial_submission_2024/Figures/Figure2.pdf>]
 
 [7]
 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-rive
-r-flow-velocities/Main/Initial_submission_2024/Figures/Figure3.pdf, id=327, 361
+r-flow-velocities/Main/Initial_submission_2024/Figures/Figure3.pdf, id=329, 361
 .35pt x 289.08pt>
 File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 -river-flow-velocities/Main/Initial_submission_2024/Figures/Figure3.pdf Graphic
@@ -3251,7 +3251,7 @@ pdfTeX warning: pdflatex (file C:/_git_local/Unsupervised-image-velocimetry-for
 gures/Figure4.pdf): PDF inclusion: found PDF version <1.6>, but at most version
  <1.5> allowed
 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-rive
-r-flow-velocities/Main/Initial_submission_2024/Figures/Figure4.pdf, id=404, 432
+r-flow-velocities/Main/Initial_submission_2024/Figures/Figure4.pdf, id=409, 432
 .64838pt x 1268.86044pt>
 File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 -river-flow-velocities/Main/Initial_submission_2024/Figures/Figure4.pdf Graphic
@@ -3277,7 +3277,7 @@ pdfTeX warning: pdflatex (file C:/_git_local/Unsupervised-image-velocimetry-for
 gures/Figure5.pdf): PDF inclusion: found PDF version <1.6>, but at most version
  <1.5> allowed
 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-rive
-r-flow-velocities/Main/Initial_submission_2024/Figures/Figure5.pdf, id=496, 692
+r-flow-velocities/Main/Initial_submission_2024/Figures/Figure5.pdf, id=498, 692
 .07257pt x 740.56973pt>
 File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 -river-flow-velocities/Main/Initial_submission_2024/Figures/Figure5.pdf Graphic
@@ -3298,7 +3298,7 @@ pdfTeX warning: pdflatex (file C:/_git_local/Unsupervised-image-velocimetry-for
 gures/Figure6.pdf): PDF inclusion: found PDF version <1.6>, but at most version
  <1.5> allowed
 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-rive
-r-flow-velocities/Main/Initial_submission_2024/Figures/Figure6.pdf, id=507, 386
+r-flow-velocities/Main/Initial_submission_2024/Figures/Figure6.pdf, id=509, 386
 .85327pt x 367.51001pt>
 File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 -river-flow-velocities/Main/Initial_submission_2024/Figures/Figure6.pdf Graphic
@@ -3321,7 +3321,7 @@ pdfTeX warning: pdflatex (file C:/_git_local/Unsupervised-image-velocimetry-for
 gures/Figure7.pdf): PDF inclusion: found PDF version <1.6>, but at most version
  <1.5> allowed
 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-rive
-r-flow-velocities/Main/Initial_submission_2024/Figures/Figure7.pdf, id=522, 431
+r-flow-velocities/Main/Initial_submission_2024/Figures/Figure7.pdf, id=524, 431
 .12971pt x 846.5999pt>
 File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 -river-flow-velocities/Main/Initial_submission_2024/Figures/Figure7.pdf Graphic
@@ -3342,7 +3342,7 @@ pdfTeX warning: pdflatex (file C:/_git_local/Unsupervised-image-velocimetry-for
 gures/Figure8_v2.pdf): PDF inclusion: found PDF version <1.6>, but at most vers
 ion <1.5> allowed
 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-rive
-r-flow-velocities/Main/Initial_submission_2024/Figures/Figure8_v2.pdf, id=574, 
+r-flow-velocities/Main/Initial_submission_2024/Figures/Figure8_v2.pdf, id=576, 
 978.13531pt x 469.25313pt>
 File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 -river-flow-velocities/Main/Initial_submission_2024/Figures/Figure8_v2.pdf Grap
@@ -3379,25 +3379,25 @@ f catchments to INTense RAinfall and Flooding (SINATRA)",
 (article_v2.bbl
 
 [21]
-Underfull \hbox (badness 4479) in paragraph at lines 40--44
+Underfull \hbox (badness 4479) in paragraph at lines 43--47
 []\T1/ptm/m/n/9 Cao, Y., Wu, Y., Yao, Q., Yu, J., Hou, D., Wu, Z., and Wang, Z.
 : River Surface Velocity Estimation Using Optical
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 40--44
+Underfull \hbox (badness 2635) in paragraph at lines 43--47
 \T1/ptm/m/n/9 Flow Velocimetry Improved With Attention Mechanism and Position E
 ncoding, IEEE Sensors Journal, 22, 16533--16544,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--49
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
 []\T1/ptm/m/n/9 Chiu, C. L.: Velocity Distribution in Open Channel Flow, Journa
 l of Hydraulic Engineering, 115, 576--594,
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 90--93
+Underfull \hbox (badness 1057) in paragraph at lines 93--96
 []\T1/ptm/m/n/9 Fleit, G. and Baranya, S.: An improved particle image velocimet
 ry method for efficient flow analyses, Flow Measurement and
  []
@@ -3405,31 +3405,31 @@ ry method for efficient flow analyses, Flow Measurement and
 
 
 [22]
-Overfull \hbox (6.73558pt too wide) in paragraph at lines 133--135
+Overfull \hbox (6.73558pt too wide) in paragraph at lines 136--138
 []\T1/ptm/m/n/9 Herschy, R. W.: Streamflow measurement, CRC Press, London, ISBN
  9781482265880, [][]https://doi.org/10.1201/9781482265880[],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--202
+Underfull \hbox (badness 10000) in paragraph at lines 200--205
 []\T1/ptm/m/n/9 Le Coz, J., Hauet, A., Pierrefeu, G., Dramais, G., and Camenen,
  B.: Performance of image-based velocimetry
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--202
+Underfull \hbox (badness 10000) in paragraph at lines 200--205
 \T1/ptm/m/n/9 (LSPIV) applied to flash-flood discharge measurements in Mediterr
 anean rivers, Journal of Hydrology, 394, 42--52,
  []
 
 
-Underfull \hbox (badness 2035) in paragraph at lines 205--210
+Underfull \hbox (badness 2035) in paragraph at lines 208--213
 []\T1/ptm/m/n/9 Leitão, J. P., Peña-Haro, S., Lüthi, B., Scheidegger, A., and d
 e Vitry, M. M.: Urban overland runoff velocity measurement
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 205--210
+Underfull \hbox (badness 1708) in paragraph at lines 208--213
 \T1/ptm/m/n/9 with consumer-grade surveillance cameras and surface structure im
 age velocimetry, Journal of Hydrology, 565, 791 -- 804,
  []
@@ -3437,26 +3437,32 @@ age velocimetry, Journal of Hydrology, 565, 791 -- 804,
 
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 235--239
+Underfull \hbox (badness 10000) in paragraph at lines 238--242
 []\T1/ptm/m/n/9 Masafu, C., Williams, R., Shi, X., Yuan, Q., and Trigg, M.: Unp
 iloted Aerial Vehicle (UAV) image
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--239
+Underfull \hbox (badness 10000) in paragraph at lines 238--242
 \T1/ptm/m/n/9 velocimetry for validation of two-dimensional hydraulic model sim
 ulations, Journal of Hydrology, 612, 128217,
  []
 
 
-Underfull \hbox (badness 4726) in paragraph at lines 304--307
-[]\T1/ptm/m/n/9 Perks, M. T.: Historical flow gauging data acquired at Austin's
- Bridge, River Dart (UK) by the Environment Agency,
+Underfull \hbox (badness 1226) in paragraph at lines 269--275
+\T1/ptm/m/n/9 Monitoring at High Temporal Resolution Based on Non-Contact Instr
+uments and Manually Surveyed Bathymetry in a River
  []
 
 
 
-[24])
+[24]
+Underfull \hbox (badness 4726) in paragraph at lines 312--314
+[]\T1/ptm/m/n/9 Perks, M. T.: Historical flow gauging data acquired at Austin's
+ Bridge, River Dart (UK) by the Environment Agency,
+ []
+
+)
 
 [25] (article_v2.aux)
  ***********
@@ -3465,13 +3471,13 @@ L3 programming layer <2021/03/21>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 21259 strings out of 473647
- 326054 string characters out of 5725779
- 821167 words of memory out of 5000000
- 43896 multiletter control sequences out of 15000+600000
+ 21263 strings out of 473647
+ 326115 string characters out of 5725779
+ 822263 words of memory out of 5000000
+ 43899 multiletter control sequences out of 15000+600000
  604320 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,10n,107p,2746b,737s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,10n,107p,2746b,735s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTe
@@ -3489,9 +3495,9 @@ ram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on article_v2.pdf (25 pages, 1301425 bytes).
+Output written on article_v2.pdf (25 pages, 1301995 bytes).
 PDF statistics:
- 826 PDF objects out of 1000 (max. 8388607)
- 138 named destinations out of 1000 (max. 500000)
+ 829 PDF objects out of 1000 (max. 8388607)
+ 139 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

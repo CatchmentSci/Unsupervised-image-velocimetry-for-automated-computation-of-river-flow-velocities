@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.12)  7 APR 2025 10:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.12)  28 APR 2025 11:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3094,7 +3094,11 @@ LaTeX Font Info:    Trying to load font information for T1+ptm on input line 12
 3.
  (C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-) (diff.aux)
+) (diff.aux
+
+Package natbib Warning: Citation `alpha_analysis' multiply defined.
+
+)
 \openout1 = `diff.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 123.
@@ -3211,13 +3215,6 @@ ated-computation-of-river-flow-velocities/Main/Initial_submission_2024/Figures/
 Figure1.pdf  used on input line 201.
 (pdftex.def)             Requested size: 236.15796pt x 452.02325pt.
 
-Overfull \hbox (1.24734pt too wide) in paragraph at lines 212--214
-|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   [] 
-  |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   [
-]   |   []   |   []   |   []
- []
-
-
 
 [4]
 
@@ -3225,7 +3222,7 @@ Overfull \hbox (1.24734pt too wide) in paragraph at lines 212--214
 iver-flow-velocities/Main/Initial_submission_2024/Figures/Figure1.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 219.
+               Default added (so using `tbp') on input line 221.
 
 
 
@@ -3234,7 +3231,7 @@ pdfTeX warning: pdflatex (file C:/_git_local/Unsupervised-image-velocimetry-for
 gures/Figure2.pdf): PDF inclusion: found PDF version <1.6>, but at most version
  <1.5> allowed
 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-rive
-r-flow-velocities/Main/Initial_submission_2024/Figures/Figure2.pdf, id=246, 920
+r-flow-velocities/Main/Initial_submission_2024/Figures/Figure2.pdf, id=249, 920
 .77301pt x 608.74626pt>
 File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 -river-flow-velocities/Main/Initial_submission_2024/Figures/Figure2.pdf Graphic
@@ -3243,22 +3240,15 @@ File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 river-flow-velocities/Main/Initial_submission_2024/Figures/Figure2.pdf>
 Package pdftex.def Info: C:/_git_local/Unsupervised-image-velocimetry-for-autom
 ated-computation-of-river-flow-velocities/Main/Initial_submission_2024/Figures/
-Figure2.pdf  used on input line 221.
+Figure2.pdf  used on input line 223.
 (pdftex.def)             Requested size: 455.24408pt x 300.97272pt.
-
-Overfull \hbox (3.5102pt too wide) in paragraph at lines 228--229
-|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   [] 
-  |   []   |   []   |   []   |   []   |   []   |   []   []\T1/ptm/m/n/10 ([]Mes
-serli
- []
-
 
 
 [6]
 
 [7 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-r
 iver-flow-velocities/Main/Initial_submission_2024/Figures/Figure2.pdf>]
-Overfull \hbox (90.22188pt too wide) in paragraph at lines 253--258
+Overfull \hbox (162.99136pt too wide) in paragraph at lines 255--260
 []|   []   [][]|   []
  []
 
@@ -3266,7 +3256,7 @@ Overfull \hbox (90.22188pt too wide) in paragraph at lines 253--258
 
 [8]
 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-rive
-r-flow-velocities/Main/Initial_submission_2024/Figures/Figure3.pdf, id=342, 361
+r-flow-velocities/Main/Initial_submission_2024/Figures/Figure3.pdf, id=345, 361
 .35pt x 289.08pt>
 File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 -river-flow-velocities/Main/Initial_submission_2024/Figures/Figure3.pdf Graphic
@@ -3275,10 +3265,10 @@ File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 river-flow-velocities/Main/Initial_submission_2024/Figures/Figure3.pdf>
 Package pdftex.def Info: C:/_git_local/Unsupervised-image-velocimetry-for-autom
 ated-computation-of-river-flow-velocities/Main/Initial_submission_2024/Figures/
-Figure3.pdf  used on input line 265.
+Figure3.pdf  used on input line 267.
 (pdftex.def)             Requested size: 341.43306pt x 273.14674pt.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
-66.
+68.
  (C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
@@ -3295,7 +3285,7 @@ pdfTeX warning: pdflatex (file C:/_git_local/Unsupervised-image-velocimetry-for
 gures/Figure4.pdf): PDF inclusion: found PDF version <1.6>, but at most version
  <1.5> allowed
 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-rive
-r-flow-velocities/Main/Initial_submission_2024/Figures/Figure4.pdf, id=425, 432
+r-flow-velocities/Main/Initial_submission_2024/Figures/Figure4.pdf, id=430, 432
 .64838pt x 1268.86044pt>
 File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 -river-flow-velocities/Main/Initial_submission_2024/Figures/Figure4.pdf Graphic
@@ -3304,7 +3294,7 @@ File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 river-flow-velocities/Main/Initial_submission_2024/Figures/Figure4.pdf>
 Package pdftex.def Info: C:/_git_local/Unsupervised-image-velocimetry-for-autom
 ated-computation-of-river-flow-velocities/Main/Initial_submission_2024/Figures/
-Figure4.pdf  used on input line 319.
+Figure4.pdf  used on input line 321.
 (pdftex.def)             Requested size: 187.78836pt x 550.74945pt.
 
 
@@ -3321,7 +3311,7 @@ pdfTeX warning: pdflatex (file C:/_git_local/Unsupervised-image-velocimetry-for
 gures/Figure5.pdf): PDF inclusion: found PDF version <1.6>, but at most version
  <1.5> allowed
 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-rive
-r-flow-velocities/Main/Initial_submission_2024/Figures/Figure5.pdf, id=513, 692
+r-flow-velocities/Main/Initial_submission_2024/Figures/Figure5.pdf, id=518, 692
 .07257pt x 740.56973pt>
 File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 -river-flow-velocities/Main/Initial_submission_2024/Figures/Figure5.pdf Graphic
@@ -3330,7 +3320,7 @@ File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 river-flow-velocities/Main/Initial_submission_2024/Figures/Figure5.pdf>
 Package pdftex.def Info: C:/_git_local/Unsupervised-image-velocimetry-for-autom
 ated-computation-of-river-flow-velocities/Main/Initial_submission_2024/Figures/
-Figure5.pdf  used on input line 327.
+Figure5.pdf  used on input line 329.
 (pdftex.def)             Requested size: 455.24408pt x 487.15031pt.
 
 
@@ -3342,7 +3332,7 @@ pdfTeX warning: pdflatex (file C:/_git_local/Unsupervised-image-velocimetry-for
 gures/Figure6.pdf): PDF inclusion: found PDF version <1.6>, but at most version
  <1.5> allowed
 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-rive
-r-flow-velocities/Main/Initial_submission_2024/Figures/Figure6.pdf, id=523, 386
+r-flow-velocities/Main/Initial_submission_2024/Figures/Figure6.pdf, id=528, 386
 .85327pt x 367.51001pt>
 File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 -river-flow-velocities/Main/Initial_submission_2024/Figures/Figure6.pdf Graphic
@@ -3351,7 +3341,7 @@ File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 river-flow-velocities/Main/Initial_submission_2024/Figures/Figure6.pdf>
 Package pdftex.def Info: C:/_git_local/Unsupervised-image-velocimetry-for-autom
 ated-computation-of-river-flow-velocities/Main/Initial_submission_2024/Figures/
-Figure6.pdf  used on input line 343.
+Figure6.pdf  used on input line 345.
 (pdftex.def)             Requested size: 236.15796pt x 224.35461pt.
 
 
@@ -3365,7 +3355,7 @@ pdfTeX warning: pdflatex (file C:/_git_local/Unsupervised-image-velocimetry-for
 gures/Figure7.pdf): PDF inclusion: found PDF version <1.6>, but at most version
  <1.5> allowed
 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-rive
-r-flow-velocities/Main/Initial_submission_2024/Figures/Figure7.pdf, id=537, 431
+r-flow-velocities/Main/Initial_submission_2024/Figures/Figure7.pdf, id=542, 431
 .12971pt x 846.5999pt>
 File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 -river-flow-velocities/Main/Initial_submission_2024/Figures/Figure7.pdf Graphic
@@ -3374,26 +3364,19 @@ File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 river-flow-velocities/Main/Initial_submission_2024/Figures/Figure7.pdf>
 Package pdftex.def Info: C:/_git_local/Unsupervised-image-velocimetry-for-autom
 ated-computation-of-river-flow-velocities/Main/Initial_submission_2024/Figures/
-Figure7.pdf  used on input line 357.
+Figure7.pdf  used on input line 359.
 (pdftex.def)             Requested size: 224.7766pt x 441.38419pt.
 
 
 [16 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-
 river-flow-velocities/Main/Initial_submission_2024/Figures/Figure7.pdf>]
-Overfull \hbox (0.88043pt too wide) in paragraph at lines 366--367
-|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   [] 
-  |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   [
-]   |   []
- []
-
-
 
 pdfTeX warning: pdflatex (file C:/_git_local/Unsupervised-image-velocimetry-for
 -automated-computation-of-river-flow-velocities/Main/Initial_submission_2024/Fi
 gures/Figure8_v2.pdf): PDF inclusion: found PDF version <1.6>, but at most vers
 ion <1.5> allowed
 <C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of-rive
-r-flow-velocities/Main/Initial_submission_2024/Figures/Figure8_v2.pdf, id=590, 
+r-flow-velocities/Main/Initial_submission_2024/Figures/Figure8_v2.pdf, id=595, 
 978.13531pt x 469.25313pt>
 File: C:/_git_local/Unsupervised-image-velocimetry-for-automated-computation-of
 -river-flow-velocities/Main/Initial_submission_2024/Figures/Figure8_v2.pdf Grap
@@ -3402,7 +3385,7 @@ hic file (type pdf)
 river-flow-velocities/Main/Initial_submission_2024/Figures/Figure8_v2.pdf>
 Package pdftex.def Info: C:/_git_local/Unsupervised-image-velocimetry-for-autom
 ated-computation-of-river-flow-velocities/Main/Initial_submission_2024/Figures/
-Figure8_v2.pdf  used on input line 373.
+Figure8_v2.pdf  used on input line 375.
 (pdftex.def)             Requested size: 503.61377pt x 241.60002pt.
 
 
@@ -3509,24 +3492,38 @@ ulations, Journal of Hydrology, 612, 128217,
 
 [25]
 
-[26] (diff.aux)
+[26]
+! Too many }'s.
+l.903 }
+       
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+
+[27]
+
+Package natbib Warning: There were multiply defined citations.
+
+(diff.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2021/03/21>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 21335 strings out of 473647
- 327132 string characters out of 5725779
- 938594 words of memory out of 5000000
- 43969 multiletter control sequences out of 15000+600000
+ 21343 strings out of 473647
+ 327270 string characters out of 5725779
+ 939861 words of memory out of 5000000
+ 43975 multiletter control sequences out of 15000+600000
  604320 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,10n,107p,2740b,741s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,10n,107p,2740b,775s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTe
@@ -3545,9 +3542,9 @@ pe1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss
 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
 rw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.
 pfb>
-Output written on diff.pdf (26 pages, 1342287 bytes).
+Output written on diff.pdf (27 pages, 1348436 bytes).
 PDF statistics:
- 850 PDF objects out of 1000 (max. 8388607)
- 140 named destinations out of 1000 (max. 500000)
+ 859 PDF objects out of 1000 (max. 8388607)
+ 142 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
